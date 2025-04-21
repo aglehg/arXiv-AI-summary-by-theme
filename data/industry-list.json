@@ -1,0 +1,93 @@
+[
+  {
+    "industry": "Healthcare",
+    "keywords": ["doctor", "hospital", "medical", "imaging", "diagnosis", "clinical"],
+    "examples": ["Detecting tumors from MRI scans."]
+  },
+  {
+    "industry": "Finance & Banking",
+    "keywords": ["finance", "banking", "fraud", "credit", "insurance", "investment", "stock"],
+    "examples": ["Predicting credit default risk using machine learning."]
+  },
+  {
+    "industry": "Education",
+    "keywords": ["education", "student", "learning", "tutoring", "school", "curriculum"],
+    "examples": ["AI tutor for personalized mathematics education."]
+  },
+  {
+    "industry": "Energy & Utilities",
+    "keywords": ["energy", "grid", "power", "electricity", "utility"],
+    "examples": ["Forecasting power demand in smart grids."]
+  },
+  {
+    "industry": "Retail & E-commerce",
+    "keywords": ["retail", "shopping", "e-commerce", "consumer", "purchase", "sales"],
+    "examples": ["Optimizing product recommendations for online stores."]
+  },
+  {
+    "industry": "Agriculture",
+    "keywords": ["agriculture", "crop", "farming", "irrigation", "soil"],
+    "examples": ["Predicting crop yields using satellite imagery."]
+  },
+  {
+    "industry": "Transportation & Logistics",
+    "keywords": ["transportation", "logistics", "shipping", "fleet", "delivery", "supply chain"],
+    "examples": ["Optimizing last-mile delivery routes using AI."]
+  },
+  {
+    "industry": "Manufacturing",
+    "keywords": ["manufacturing", "factory", "production", "supply chain", "quality control"],
+    "examples": [
+      "Detecting defects in manufacturing assembly lines.",
+      "Use of robotics and AI to automate production lines.",
+      "Using sensor data and AI to predict machine failures before they happen",
+      "Optimizing inventory, procurement, and logistics for raw materials and finished products",
+      "Integration of IoT devices, AI, and data analytics to create connected, flexible, and efficient manufacturing systems"
+    ]
+  },
+  {
+    "industry": "Environmental Science",
+    "keywords": ["climate", "environment", "conservation", "wildlife", "sustainability"],
+    "examples": ["Monitoring deforestation using satellite data."]
+  },
+  {
+    "industry": "Geospatial & Remote Sensing",
+    "keywords": ["satellite", "geospatial", "earth observation", "remote sensing", "mapping"],
+    "examples": ["Mapping urban expansion from satellite images."]
+  },
+  {
+    "industry": "Cybersecurity",
+    "keywords": ["cybersecurity", "security", "hacking", "malware", "phishing"],
+    "examples": ["Detecting phishing attempts in corporate emails."]
+  },
+  {
+    "industry": "Legal",
+    "keywords": ["law", "legal", "compliance", "regulation", "litigation"],
+    "examples": ["Summarizing legal case documents with LLMs."]
+  },
+  {
+    "industry": "Public Policy & Governance",
+    "keywords": ["policy", "governance", "government", "regulation", "society"],
+    "examples": ["Analyzing social policy impact using AI simulations."]
+  },
+  {
+    "industry": "Social Sciences & Humanities",
+    "keywords": ["social", "sociology", "anthropology", "history", "language", "philosophy"],
+    "examples": ["Studying language evolution patterns using NLP."]
+  },
+  {
+    "industry": "Entertainment & Media",
+    "keywords": ["media", "film", "music", "entertainment", "game", "animation"],
+    "examples": ["Generating background music using AI models."]
+  },
+  {
+    "industry": "Construction & Real Estate",
+    "keywords": ["construction", "real estate", "building", "architecture", "urban planning"],
+    "examples": ["Predicting real estate price trends with machine learning."]
+  },
+  {
+    "industry": "Aerospace & Defense",
+    "keywords": ["aerospace", "satellite", "aviation", "space", "defense", "military"],
+    "examples": ["Optimizing satellite image analysis for defense applications."]
+  }
+]

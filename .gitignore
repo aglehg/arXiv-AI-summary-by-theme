@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+config.yaml
+_chromadb_industry/chroma.sqlite3
+data/papers_classified.json
+utils/.DS_Store
+/chromadb_industry
+/_chromadb_industry
+.DS_Store

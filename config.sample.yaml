@@ -1,0 +1,4 @@
+GOOGLE_API_KEY: ""
+data_dir: "data"
+out_dir: "out"
+papers_file: "papers_sample.json"
