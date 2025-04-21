@@ -6,6 +6,19 @@ Build a practical method to get a clear overview of what AI researchers are work
 Take one week of AI papers from arXiv, classify them by industry, then summarize how those papers contribute to the industry. 
 
 This is a prototype, it contains many weaknesses that can be improved.  
+
+##  Pipeline
+
+Large Corpus of Papers  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+Theme Definition (Manual list of industries with examples)  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+Document Classification (AI-assisted)  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+Thematic Summarization (By industry, with automated clusters as sub-themes)  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+Structured Report (Compile the summaries into a structured report for human review)
+
  
 ## Key Components
 
